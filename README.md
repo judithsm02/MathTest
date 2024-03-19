@@ -19,7 +19,7 @@
 
 ## ux402_qunit
 
-A unit test application
+A unit test application with the Qunit test
 
 ### Starting the generated app
 
